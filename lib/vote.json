@@ -1,0 +1,1667 @@
+[
+  {
+      "name": "Hon. Samuel Chepkonga",
+      "vote": "YES",
+      "area": "Area 1"
+  },
+  {
+      "name": "Hon. Benjamin Kipkirui",
+      "vote": "YES",
+      "area": "Area 2"
+  },
+  {
+      "name": "Hon. Marianne Kitany",
+      "vote": "YES",
+      "area": "Area 3"
+  },
+  {
+      "name": "Hon. Samuel Atandi",
+      "vote": "NO",
+      "area": "Area 4"
+  },
+  {
+      "name": "Hon. John Walter Owino",
+      "vote": "NO",
+      "area": "Area 5"
+  },
+  {
+      "name": "Hon. Irene Njoki",
+      "vote": "ABSENT",
+      "area": "Area 6"
+  },
+  {
+      "name": "Hon. Abdi Shurie",
+      "vote": "ABSENT",
+      "area": "Area 7"
+  },
+  {
+      "name": "Hon. Florence Jematia",
+      "vote": "YES",
+      "area": "Area 8"
+  },
+  {
+      "name": "Hon. Joshua Kandie",
+      "vote": "YES",
+      "area": "Area 9"
+  },
+  {
+      "name": "Hon. Kipkoros Makilap",
+      "vote": "YES",
+      "area": "Area 10"
+  },
+  {
+      "name": "Hon. Charles Kamuren",
+      "vote": "YES",
+      "area": "Area 11"
+  },
+  {
+      "name": "Hon. Koech Nelson",
+      "vote": "YES",
+      "area": "Area 12"
+  },
+  {
+      "name": "Hon. Barongo Nolphason",
+      "vote": "NO",
+      "area": "Area 13"
+  },
+  {
+      "name": "Hon. Alpha Miruka",
+      "vote": "YES",
+      "area": "Area 14"
+  },
+  {
+      "name": "Hon. Linet Chepkorir",
+      "vote": "YES",
+      "area": "Area 15"
+  },
+  {
+      "name": "Hon. Richard Cheruiyot",
+      "vote": "YES",
+      "area": "Area 16"
+  },
+  {
+      "name": "Hon. Yegon Richard",
+      "vote": "YES",
+      "area": "Area 17"
+  },
+  {
+      "name": "Hon. Gideon Ochanda",
+      "vote": "YES",
+      "area": "Area 18"
+  },
+  {
+      "name": "Hon. Osero Patrick Kibagendi",
+      "vote": "NO",
+      "area": "Area 19"
+  },
+  {
+      "name": "Hon. Raphael Wanjala",
+      "vote": "NO",
+      "area": "Area 20"
+  },
+  {
+      "name": "Hon. Jack Wamboka",
+      "vote": "NO",
+      "area": "Area 21"
+  },
+  {
+      "name": "Hon. Catherine Wambilianga",
+      "vote": "YES",
+      "area": "Area 22"
+  },
+  {
+      "name": "Hon. Yakub Adow",
+      "vote": "ABSENT",
+      "area": "Area 23"
+  },
+  {
+      "name": "Hon. Komingoi Kibet",
+      "vote": "YES",
+      "area": "Area 24"
+  },
+  {
+      "name": "Hon. Catherine Omanyo",
+      "vote": "NO",
+      "area": "Area 25"
+  },
+  {
+      "name": "Hon. Tindi Mwale",
+      "vote": "NO",
+      "area": "Area 26"
+  },
+  {
+      "name": "Hon. Oyula Joseph",
+      "vote": "NO",
+      "area": "Area 27"
+  },
+  {
+      "name": "Hon. Rindikiri Mugambi",
+      "vote": "YES",
+      "area": "Area 28"
+  },
+  {
+      "name": "Hon. Kirima Nguchine",
+      "vote": "YES",
+      "area": "Area 29"
+  },
+  {
+      "name": "Hon. Omar Shimbwa Mwinyi",
+      "vote": "NO",
+      "area": "Area 30"
+  },
+  {
+      "name": "Hon. Victor Koech",
+      "vote": "YES",
+      "area": "Area 31"
+  },
+  {
+      "name": "Hon. Patrick Simiyu",
+      "vote": "NO",
+      "area": "Area 32"
+  },
+  {
+      "name": "Hon. Byego Paul Kibichii",
+      "vote": "YES",
+      "area": "Area 33"
+  },
+  {
+      "name": "Hon. Patrick Ntwiga",
+      "vote": "YES",
+      "area": "Area 34"
+  },
+  {
+      "name": "Hon. Farah Maalim",
+      "vote": "YES",
+      "area": "Area 35"
+  },
+  {
+      "name": "Hon. Beatrice Elachi",
+      "vote": "NO",
+      "area": "Area 36"
+  },
+  {
+      "name": "Hon. John Kiarie",
+      "vote": "YES",
+      "area": "Area 37"
+  },
+  {
+      "name": "Hon. Musa Sirma",
+      "vote": "YES",
+      "area": "Area 38"
+  },
+  {
+      "name": "Hon. Adan Keynan",
+      "vote": "YES",
+      "area": "Area 39"
+  },
+  {
+      "name": "Hon. Jeptoo Caroline Ngelechei",
+      "vote": "YES",
+      "area": "Area 40"
+  },
+  {
+      "name": "Hon. Mejjadonk Benjamin",
+      "vote": "ABSENT",
+      "area": "Area 41"
+  },
+  {
+      "name": "Hon. Babu Owino",
+      "vote": "NO",
+      "area": "Area 42"
+  },
+  {
+      "name": "Hon. James Gakuya",
+      "vote": "ABSENT",
+      "area": "Area 43"
+  },
+  {
+      "name": "Hon. Julius Mawathe",
+      "vote": "NO",
+      "area": "Area 44"
+  },
+  {
+      "name": "Hon. Mark Mwenje",
+      "vote": "NO",
+      "area": "Area 45"
+  },
+  {
+      "name": "Hon. Lelemengit Josses",
+      "vote": "YES",
+      "area": "Area 46"
+  },
+  {
+      "name": "Hon. Omboko Milemba",
+      "vote": "YES",
+      "area": "Area 47"
+  },
+  {
+      "name": "Hon. Johana Ngeno",
+      "vote": "YES",
+      "area": "Area 48"
+  },
+  {
+      "name": "Hon. Robert Pukose",
+      "vote": "YES",
+      "area": "Area 49"
+  },
+  {
+      "name": "Hon. Yakub Farah",
+      "vote": "YES",
+      "area": "Area 50"
+  },
+  {
+      "name": "Hon. Oundo Ojiambo",
+      "vote": "NO",
+      "area": "Area 51"
+  },
+  {
+      "name": "Hon. Hiribae Said",
+      "vote": "ABSENT",
+      "area": "Area 52"
+  },
+  {
+      "name": "Hon. Tungule Charo Kazungu",
+      "vote": "YES",
+      "area": "Area 53"
+  },
+  {
+      "name": "Hon. Udgoon Siyyad",
+      "vote": "NO",
+      "area": "Area 54"
+  },
+  {
+      "name": "Hon. Baro Dekow",
+      "vote": "YES",
+      "area": "Area 55"
+  },
+  {
+      "name": "Hon. Guyo Ali Wario",
+      "vote": "YES",
+      "area": "Area 56"
+  },
+  {
+      "name": "Hon. Edward Wakili",
+      "vote": "YES",
+      "area": "Area 57"
+  },
+  {
+      "name": "Hon. Kururia Njoroge",
+      "vote": "YES",
+      "area": "Area 58"
+  },
+  {
+      "name": "Hon. Gabriel Kagombe",
+      "vote": "YES",
+      "area": "Area 59"
+  },
+  {
+      "name": "Hon. Elisha Odhiambo",
+      "vote": "NO",
+      "area": "Area 60"
+  },
+  {
+      "name": "Hon. Robert Gichimu",
+      "vote": "YES",
+      "area": "Area 61"
+  },
+  {
+      "name": "Hon. Martha Wangari",
+      "vote": "YES",
+      "area": "Area 62"
+  },
+  {
+      "name": "Hon. Gathoni Wamuchomba",
+      "vote": "NO",
+      "area": "Area 63"
+  },
+  {
+      "name": "Hon. Gimose Gumini",
+      "vote": "YES",
+      "area": "Area 64"
+  },
+  {
+      "name": "Hon. Joyce Bensuda",
+      "vote": "NO",
+      "area": "Area 65"
+  },
+  {
+      "name": "Hon. George Kaluma",
+      "vote": "NO",
+      "area": "Area 66"
+  },
+  {
+      "name": "Hon. Karithi Kiili",
+      "vote": "YES",
+      "area": "Area 67"
+  },
+  {
+      "name": "Hon. Julius Taitumu",
+      "vote": "YES",
+      "area": "Area 68"
+  },
+  {
+      "name": "Hon. John Paul Mwirigi",
+      "vote": "YES",
+      "area": "Area 69"
+  },
+  {
+      "name": "Hon. Ali Abdi Ali",
+      "vote": "YES",
+      "area": "Area 70"
+  },
+  {
+      "name": "Hon. Bernard Shinali",
+      "vote": "YES",
+      "area": "Area 71"
+  },
+  {
+      "name": "Hon. Mumina Bonaya",
+      "vote": "YES",
+      "area": "Area 72"
+  },
+  {
+      "name": "Hon. Lomwaa Joseph Samal",
+      "vote": "ABSENT",
+      "area": "Area 73"
+  },
+  {
+      "name": "Hon. Tubi Mohamed",
+      "vote": "UNWELL",
+      "area": "Area 74"
+  },
+  {
+      "name": "Hon. Bady Bady Twalib",
+      "vote": "NO",
+      "area": "Area 75"
+  },
+  {
+      "name": "Hon. George Koimburi",
+      "vote": "NO",
+      "area": "Area 76"
+  },
+  {
+      "name": "Hon. Wamacukuru James",
+      "vote": "YES",
+      "area": "Area 77"
+  },
+  {
+      "name": "Hon. Eve Obara",
+      "vote": "NO",
+      "area": "Area 78"
+  },
+  {
+      "name": "Hon. Kalasinga Majimbo",
+      "vote": "NO",
+      "area": "Area 79"
+  },
+  {
+      "name": "Hon. Titus Lotee",
+      "vote": "YES",
+      "area": "Area 80"
+  },
+  {
+      "name": "Hon. Joseph Kimilu",
+      "vote": "NO",
+      "area": "Area 81"
+  },
+  {
+      "name": "Hon. Leah Sankaire",
+      "vote": "YES",
+      "area": "Area 82"
+  },
+  {
+      "name": "Hon. Memusi Kanchory",
+      "vote": "YES",
+      "area": "Area 83"
+  },
+  {
+      "name": "Hon. Kakuta Maimai",
+      "vote": "NO",
+      "area": "Area 84"
+  },
+  {
+      "name": "Hon. Onesmus Ngogoyo",
+      "vote": "YES",
+      "area": "Area 85"
+  },
+  {
+      "name": "Hon. Sakimba Parashina",
+      "vote": "NO",
+      "area": "Area 86"
+  },
+  {
+      "name": "Hon. Sunkuiya George",
+      "vote": "YES",
+      "area": "Area 87"
+  },
+  {
+      "name": "Hon. Elsie Muhanda",
+      "vote": "NO",
+      "area": "Area 88"
+  },
+  {
+      "name": "Hon. Paul Katana",
+      "vote": "NO",
+      "area": "Area 89"
+  },
+  {
+      "name": "Hon. Yussuf Hassan",
+      "vote": "NO",
+      "area": "Area 90"
+  },
+  {
+      "name": "Hon. Chege Njuguna",
+      "vote": "YES",
+      "area": "Area 91"
+  },
+  {
+      "name": "Hon. John Makali",
+      "vote": "YES",
+      "area": "Area 92"
+  },
+  {
+      "name": "Hon. Peter Irungu",
+      "vote": "YES",
+      "area": "Area 93"
+  },
+  {
+      "name": "Hon. Fabian Kyule",
+      "vote": "YES",
+      "area": "Area 94"
+  },
+  {
+      "name": "Hon. Moroto Samuel",
+      "vote": "YES",
+      "area": "Area 95"
+  },
+  {
+      "name": "Hon. Oscar Sudi",
+      "vote": "YES",
+      "area": "Area 96"
+  },
+  {
+      "name": "Hon. Adipo Okuome",
+      "vote": "NO",
+      "area": "Area 97"
+  },
+  {
+      "name": "Hon. Ronald Karauri",
+      "vote": "YES",
+      "area": "Area 98"
+  },
+  {
+      "name": "Hon. Charles Were",
+      "vote": "NO",
+      "area": "Area 99"
+  },
+  {
+      "name": "Hon. Robert Mbui",
+      "vote": "NO",
+      "area": "Area 100"
+  },
+  {
+      "name": "Hon. Adams Kipsanai",
+      "vote": "YES",
+      "area": "Area 101"
+  },
+  {
+      "name": "Hon. Gideon Kimaiyo",
+      "vote": "YES",
+      "area": "Area 102"
+  },
+  {
+      "name": "Hon. Beatrice Kemei",
+      "vote": "YES",
+      "area": "Area 103"
+  },
+  {
+      "name": "Hon. Julius Ruto",
+      "vote": "YES",
+      "area": "Area 104"
+  },
+  {
+      "name": "Hon. Christopher Aseka",
+      "vote": "YES",
+      "area": "Area 105"
+  },
+  {
+      "name": "Hon. John Kawanjiku",
+      "vote": "YES",
+      "area": "Area 106"
+  },
+  {
+      "name": "Hon. Waithaka John",
+      "vote": "YES",
+      "area": "Area 107"
+  },
+  {
+      "name": "Hon. Wamuratha Wanjiku",
+      "vote": "YES",
+      "area": "Area 108"
+  },
+  {
+      "name": "Hon. Peter Orero",
+      "vote": "NO",
+      "area": "Area 109"
+  },
+  {
+      "name": "Hon. Jessica Mbalu",
+      "vote": "NO",
+      "area": "Area 110"
+  },
+  {
+      "name": "Hon. Mwengi Mutuse",
+      "vote": "YES",
+      "area": "Area 111"
+  },
+  {
+      "name": "Hon. Njoroge Wainaina",
+      "vote": "YES",
+      "area": "Area 112"
+  },
+  {
+      "name": "Hon. Joseph Munyoro",
+      "vote": "YES",
+      "area": "Area 113"
+  },
+  {
+      "name": "Hon. Ndindi Nyoro",
+      "vote": "YES",
+      "area": "Area 114"
+  },
+  {
+      "name": "Hon. Kimani Ichung’wah",
+      "vote": "YES",
+      "area": "Area 115"
+  },
+  {
+      "name": "Hon. Julius Sunkuli",
+      "vote": "NO",
+      "area": "Area 116"
+  },
+  {
+      "name": "Hon. Gertrude Mbeyu",
+      "vote": "NO",
+      "area": "Area 117"
+  },
+  {
+      "name": "Hon. Owen Baya",
+      "vote": "YES",
+      "area": "Area 118"
+  },
+  {
+      "name": "Hon. Ken Chonga",
+      "vote": "NO",
+      "area": "Area 119"
+  },
+  {
+      "name": "Hon. Nzambia Kithua",
+      "vote": "NO",
+      "area": "Area 120"
+  },
+  {
+      "name": "Hon. Didmus Barasa",
+      "vote": "YES",
+      "area": "Area 121"
+  },
+  {
+      "name": "Hon. Kakai Bisau",
+      "vote": "NO",
+      "area": "Area 122"
+  },
+  {
+      "name": "Hon. Gonzi Rai",
+      "vote": "YES",
+      "area": "Area 123"
+  },
+  {
+      "name": "Hon. Kwenya Thuku",
+      "vote": "YES",
+      "area": "Area 124"
+  },
+  {
+      "name": "Hon. Wanjiku Muhia",
+      "vote": "YES",
+      "area": "Area 125"
+  },
+  {
+      "name": "Hon. Cherorot Joseph",
+      "vote": "YES",
+      "area": "Area 126"
+  },
+  {
+      "name": "Hon. Hillary Kosgei",
+      "vote": "YES",
+      "area": "Area 127"
+  },
+  {
+      "name": "Hon. Jane Maina Njeri",
+      "vote": "ABSENT",
+      "area": "Area 128"
+  },
+  {
+      "name": "Hon. Joseph Gitari",
+      "vote": "YES",
+      "area": "Area 129"
+  },
+  {
+      "name": "Hon. Bedzimba Rashid",
+      "vote": "NO",
+      "area": "Area 130"
+  },
+  {
+      "name": "Hon. Donya Doris",
+      "vote": "ABSENT",
+      "area": "Area 131"
+  },
+  {
+      "name": "Hon. Ruth Odinga",
+      "vote": "NO",
+      "area": "Area 132"
+  },
+  {
+      "name": "Hon. Oron Joshua",
+      "vote": "NO",
+      "area": "Area 133"
+  },
+  {
+      "name": "Hon. Shakeel Shabbir",
+      "vote": "ABSENT",
+      "area": "Area 134"
+  },
+  {
+      "name": "Hon. Rozaah Buyu",
+      "vote": "NO",
+      "area": "Area 135"
+  },
+  {
+      "name": "Hon. Irene Kasalu",
+      "vote": "NO",
+      "area": "Area 136"
+  },
+  {
+      "name": "Hon. Makali Mulu",
+      "vote": "NO",
+      "area": "Area 137"
+  },
+  {
+      "name": "Hon. Nimrod Mbai",
+      "vote": "YES",
+      "area": "Area 138"
+  },
+  {
+      "name": "Hon. Mboni Mwalika",
+      "vote": "NO",
+      "area": "Area 139"
+  },
+  {
+      "name": "Hon. Rachael Nyamai",
+      "vote": "YES",
+      "area": "Area 140"
+  },
+  {
+      "name": "Hon. Edith Nyenze",
+      "vote": "NO",
+      "area": "Area 141"
+  },
+  {
+      "name": "Hon. Japheth Nyakundi",
+      "vote": "YES",
+      "area": "Area 142"
+  },
+  {
+      "name": "Hon. Kibagendi Anthony",
+      "vote": "NO",
+      "area": "Area 143"
+  },
+  {
+      "name": "Hon. Clive Gisairo",
+      "vote": "NO",
+      "area": "Area 144"
+  },
+  {
+      "name": "Hon. Yegon Richard",
+      "vote": "YES",
+      "area": "Area 145"
+  },
+  {
+      "name": "Hon. Alfred Mutai",
+      "vote": "YES",
+      "area": "Area 146"
+  },
+  {
+      "name": "Hon. Joseph Tonui",
+      "vote": "YES",
+      "area": "Area 147"
+  },
+  {
+      "name": "Hon. Kitayama Maisori",
+      "vote": "YES",
+      "area": "Area 148"
+  },
+  {
+      "name": "Hon. Mathias Robi",
+      "vote": "YES",
+      "area": "Area 149"
+  },
+  {
+      "name": "Hon. Fatuma Masito",
+      "vote": "NO",
+      "area": "Area 150"
+  },
+  {
+      "name": "Hon. Ferdinand Wanyonyi",
+      "vote": "YES",
+      "area": "Area 151"
+  },
+  {
+      "name": "Hon. Abdulrahman Mohamed",
+      "vote": "NO",
+      "area": "Area 152"
+  },
+  {
+      "name": "Hon. Mohamed Hussein Abdekadir",
+      "vote": "YES",
+      "area": "Area 153"
+  },
+  {
+      "name": "Hon. Jane Kagiri",
+      "vote": "YES",
+      "area": "Area 154"
+  },
+  {
+      "name": "Hon. Mwangi Kiunjuri",
+      "vote": "YES",
+      "area": "Area 155"
+  },
+  {
+      "name": "Hon. Sarah Korere",
+      "vote": "YES",
+      "area": "Area 156"
+  },
+  {
+      "name": "Hon. Stephen Wachira Karani",
+      "vote": "YES",
+      "area": "Area 157"
+  },
+  {
+      "name": "Hon. Joseph Lekuton",
+      "vote": "YES",
+      "area": "Area 158"
+  },
+  {
+      "name": "Hon. Muthoni Marubu",
+      "vote": "YES",
+      "area": "Area 159"
+  },
+  {
+      "name": "Hon. Ruweida Obo",
+      "vote": "YES",
+      "area": "Area 160"
+  },
+  {
+      "name": "Hon. Stanley Muthama",
+      "vote": "YES",
+      "area": "Area 161"
+  },
+  {
+      "name": "Hon. Phelix Odiwuor (Jalang’o)",
+      "vote": "NO",
+      "area": "Area 162"
+  },
+  {
+      "name": "Hon. Kahangara Joseph",
+      "vote": "YES",
+      "area": "Area 163"
+  },
+  {
+      "name": "Hon. Mishi Mboko",
+      "vote": "NO",
+      "area": "Area 164"
+  },
+  {
+      "name": "Hon. Innocent Mugabe",
+      "vote": "NO",
+      "area": "Area 165"
+  },
+  {
+      "name": "Hon. John Chege Kiragu",
+      "vote": "YES",
+      "area": "Area 166"
+  },
+  {
+      "name": "Hon. Protus Akuja",
+      "vote": "YES",
+      "area": "Area 167"
+  },
+  {
+      "name": "Hon. Dick Maungu",
+      "vote": "NO",
+      "area": "Area 168"
+  },
+  {
+      "name": "Hon. Nabii Nabwera",
+      "vote": "NO",
+      "area": "Area 169"
+  },
+  {
+      "name": "Hon. Chiforomodo Mangale",
+      "vote": "YES",
+      "area": "Area 170"
+  },
+  {
+      "name": "Hon. Titus Khamala",
+      "vote": "NO",
+      "area": "Area 171"
+  },
+  {
+      "name": "Hon. Kareke Mbiuki",
+      "vote": "YES",
+      "area": "Area 172"
+  },
+  {
+      "name": "Hon. Joyce Kamene",
+      "vote": "NO",
+      "area": "Area 173"
+  },
+  {
+      "name": "Hon. Caleb Mule",
+      "vote": "YES",
+      "area": "Area 174"
+  },
+  {
+      "name": "Hon. George Aladwa",
+      "vote": "NO",
+      "area": "Area 175"
+  },
+  {
+      "name": "Hon. Suzanne Kiamba",
+      "vote": "NO",
+      "area": "Area 176"
+  },
+  {
+      "name": "Hon. Rose Mumo",
+      "vote": "NO",
+      "area": "Area 177"
+  },
+  {
+      "name": "Hon. Malulu Injendi",
+      "vote": "YES",
+      "area": "Area 178"
+  },
+  {
+      "name": "Hon. Amina Mnyazi",
+      "vote": "NO",
+      "area": "Area 179"
+  },
+  {
+      "name": "Hon. Sheikh Bashir Abdullahi",
+      "vote": "YES",
+      "area": "Area 180"
+  },
+  {
+      "name": "Hon. Umul kher Kassim",
+      "vote": "YES",
+      "area": "Area 181"
+  },
+  {
+      "name": "Hon. Husseinweytan Mohamed",
+      "vote": "NO",
+      "area": "Area 182"
+  },
+  {
+      "name": "Hon. Abdul Haro Ibrahim",
+      "vote": "YES",
+      "area": "Area 183"
+  },
+  {
+      "name": "Hon. Yusuf Adan Haji",
+      "vote": "YES",
+      "area": "Area 184"
+  },
+  {
+      "name": "Hon. John Mukunji",
+      "vote": "NO",
+      "area": "Area 185"
+  },
+  {
+      "name": "Hon. Wamaua Njoroge",
+      "vote": "YES",
+      "area": "Area 186"
+  },
+  {
+      "name": "Hon. David Bowen",
+      "vote": "YES",
+      "area": "Area 187"
+  },
+  {
+      "name": "Hon. Kipchumba Toroitich",
+      "vote": "YES",
+      "area": "Area 188"
+  },
+  {
+      "name": "Hon. Naomi Waqo",
+      "vote": "YES",
+      "area": "Area 189"
+  },
+  {
+      "name": "Hon. Joshua Mwaliyo",
+      "vote": "ABSENT",
+      "area": "Area 190"
+  },
+  {
+      "name": "Hon. Geoffrey Odanga",
+      "vote": "NO",
+      "area": "Area 191"
+  },
+  {
+      "name": "Hon. Anthony Oluoch",
+      "vote": "NO",
+      "area": "Area 192"
+  },
+  {
+      "name": "Hon. Eric Mwangi Kahugu",
+      "vote": "YES",
+      "area": "Area 193"
+  },
+  {
+      "name": "Hon. Kassim Sawa",
+      "vote": "YES",
+      "area": "Area 194"
+  },
+  {
+      "name": "Hon. Peter OScar Nabulindo",
+      "vote": "YES",
+      "area": "Area 195"
+  },
+  {
+      "name": "Hon. Stephen Mule",
+      "vote": "NO",
+      "area": "Area 196"
+  },
+  {
+      "name": "Hon. Geoffrey Kariuki",
+      "vote": "YES",
+      "area": "Area 197"
+  },
+  {
+      "name": "Hon. Bernard Muriuki",
+      "vote": "YES",
+      "area": "Area 198"
+  },
+  {
+      "name": "Hon. Erastus Kivasu",
+      "vote": "NO",
+      "area": "Area 199"
+  },
+  {
+      "name": "Hon. Elizabeth Kailemia",
+      "vote": "YES",
+      "area": "Area 200"
+  },
+  {
+      "name": "Hon. Fatuma Zainab",
+      "vote": "NO",
+      "area": "Area 201"
+  },
+  {
+      "name": "Hon. Kiborek Reuben",
+      "vote": "YES",
+      "area": "Area 202"
+  },
+  {
+      "name": "Hon. Bartoo Phyllis",
+      "vote": "YES",
+      "area": "Area 203"
+  },
+  {
+      "name": "Hon. Kuria Kimani",
+      "vote": "YES",
+      "area": "Area 204"
+  },
+  {
+      "name": "Hon. Zamzam Mohamed",
+      "vote": "NO",
+      "area": "Area 205"
+  },
+  {
+      "name": "Hon. Abraham Kirwa",
+      "vote": "YES",
+      "area": "Area 206"
+  },
+  {
+      "name": "Hon. Feisal Bader",
+      "vote": "YES",
+      "area": "Area 207"
+  },
+  {
+      "name": "Hon. Fred Kapondi",
+      "vote": "YES",
+      "area": "Area 208"
+  },
+  {
+      "name": "Hon. K’oyoo James",
+      "vote": "NO",
+      "area": "Area 209"
+  },
+  {
+      "name": "Hon. Kaguchia John",
+      "vote": "YES",
+      "area": "Area 210"
+  },
+  {
+      "name": "Hon. Salasya Peter",
+      "vote": "NO",
+      "area": "Area 211"
+  },
+  {
+      "name": "Hon. Johnson Naicca",
+      "vote": "YES",
+      "area": "Area 212"
+  },
+  {
+      "name": "Hon. Betty Maina",
+      "vote": "YES",
+      "area": "Area 213"
+  },
+  {
+      "name": "Hon. Machele Mohamed",
+      "vote": "NO",
+      "area": "Area 214"
+  },
+  {
+      "name": "Hon. Musyoka Vincent",
+      "vote": "YES",
+      "area": "Area 215"
+  },
+  {
+      "name": "Hon. Mary Maingi",
+      "vote": "YES",
+      "area": "Area 216"
+  },
+  {
+      "name": "Hon. Gideon Mulyungi",
+      "vote": "NO",
+      "area": "Area 217"
+  },
+  {
+      "name": "Hon. Paul Nzengu",
+      "vote": "NO",
+      "area": "Area 218"
+  },
+  {
+      "name": "Hon. Charles Nguna",
+      "vote": "NO",
+      "area": "Area 219"
+  },
+  {
+      "name": "Hon. Esther Passaris",
+      "vote": "NO",
+      "area": "Area 220"
+  },
+  {
+      "name": "Hon. Jayne Kihara",
+      "vote": "YES",
+      "area": "Area 221"
+  },
+  {
+      "name": "Hon. Liza Chelule",
+      "vote": "YES",
+      "area": "Area 222"
+  },
+  {
+      "name": "Hon. David Gikaria",
+      "vote": "YES",
+      "area": "Area 223"
+  },
+  {
+      "name": "Hon. Samuel Arama",
+      "vote": "YES",
+      "area": "Area 224"
+  },
+  {
+      "name": "Hon. Godfrey Mulanya",
+      "vote": "NO",
+      "area": "Area 225"
+  },
+  {
+      "name": "Hon. Cynthia Muge",
+      "vote": "YES",
+      "area": "Area 226"
+  },
+  {
+      "name": "Hon. Bernard Kitur",
+      "vote": "ABSENT",
+      "area": "Area 227"
+  },
+  {
+      "name": "Hon. Rebecca Tonkei",
+      "vote": "YES",
+      "area": "Area 228"
+  },
+  {
+      "name": "Hon. Aramat Lemanken",
+      "vote": "YES",
+      "area": "Area 229"
+  },
+  {
+      "name": "Hon. Gabriel Tongoyo",
+      "vote": "YES",
+      "area": "Area 230"
+  },
+  {
+      "name": "Hon. Emmanuel Wangwe",
+      "vote": "YES",
+      "area": "Area 231"
+  },
+  {
+      "name": "Hon. George Gachagua",
+      "vote": "YES",
+      "area": "Area 232"
+  },
+  {
+      "name": "Hon. Martin Peters Owino",
+      "vote": "NO",
+      "area": "Area 233"
+  },
+  {
+      "name": "Hon. GK Kariuki",
+      "vote": "YES",
+      "area": "Area 234"
+  },
+  {
+      "name": "Hon. Charity Kathambi",
+      "vote": "YES",
+      "area": "Area 235"
+  },
+  {
+      "name": "Hon. Guyo Adhe",
+      "vote": "YES",
+      "area": "Area 236"
+  },
+  {
+      "name": "Hon. Rahim Dawood",
+      "vote": "YES",
+      "area": "Area 237"
+  },
+  {
+      "name": "Hon. Joash Nyamoko",
+      "vote": "YES",
+      "area": "Area 238"
+  },
+  {
+      "name": "Hon. Aduma Owuor",
+      "vote": "NO",
+      "area": "Area 239"
+  },
+  {
+      "name": "Hon. Mohamed Ali",
+      "vote": "ABSENT",
+      "area": "Area 240"
+  },
+  {
+      "name": "Hon. Jerusha Momanyi",
+      "vote": "YES",
+      "area": "Area 241"
+  },
+  {
+      "name": "Hon. Faith Gitau",
+      "vote": "YES",
+      "area": "Area 242"
+  },
+  {
+      "name": "Hon. Jared Okelo",
+      "vote": "NO",
+      "area": "Area 243"
+  },
+  {
+      "name": "Hon. Zaheer Jhanda",
+      "vote": "YES",
+      "area": "Area 244"
+  },
+  {
+      "name": "Hon. Daniel Manduku",
+      "vote": "NO",
+      "area": "Area 245"
+  },
+  {
+      "name": "Hon. Tom Mboya Odege",
+      "vote": "NO",
+      "area": "Area 246"
+  },
+  {
+      "name": "Hon. Rahab Mukami",
+      "vote": "YES",
+      "area": "Area 247"
+  },
+  {
+      "name": "Hon. Duncan Mathenge",
+      "vote": "YES",
+      "area": "Area 248"
+  },
+  {
+      "name": "Hon. Michael Muchira",
+      "vote": "YES",
+      "area": "Area 249"
+  },
+  {
+      "name": "Hon. Kiaraho David",
+      "vote": "YES",
+      "area": "Area 250"
+  },
+  {
+      "name": "Hon. Michael Wainaina",
+      "vote": "YES",
+      "area": "Area 251"
+  },
+  {
+      "name": "Hon. David Pkosing",
+      "vote": "YES",
+      "area": "Area 252"
+  },
+  {
+      "name": "Hon. Antony Kenga",
+      "vote": "NO",
+      "area": "Area 253"
+  },
+  {
+      "name": "Hon. Lilian Gogo",
+      "vote": "NO",
+      "area": "Area 254"
+  },
+  {
+      "name": "Hon. Otiende Amolo",
+      "vote": "NO",
+      "area": "Area 255"
+  },
+  {
+      "name": "Hon. Kibet Jebor",
+      "vote": "YES",
+      "area": "Area 256"
+  },
+  {
+      "name": "Hon. Paul Abuor",
+      "vote": "NO",
+      "area": "Area 257"
+  },
+  {
+      "name": "Hon. Mwafrika Kamande",
+      "vote": "YES",
+      "area": "Area 258"
+  },
+  {
+      "name": "Hon. TJ Kajwang",
+      "vote": "NO",
+      "area": "Area 259"
+  },
+  {
+      "name": "Hon. Simon Kingara",
+      "vote": "YES",
+      "area": "Area 260"
+  },
+  {
+      "name": "Hon. Eric Karemba",
+      "vote": "YES",
+      "area": "Area 261"
+  },
+  {
+      "name": "Hon. Sloya Clement",
+      "vote": "ABSENT",
+      "area": "Area 262"
+  },
+  {
+      "name": "Hon. Caleb Amisi",
+      "vote": "NO",
+      "area": "Area 263"
+  },
+  {
+      "name": "Hon. Dido Rasso",
+      "vote": "YES",
+      "area": "Area 264"
+  },
+  {
+      "name": "Hon. Pauline Lenguris",
+      "vote": "YES",
+      "area": "Area 265"
+  },
+  {
+      "name": "Hon. Lekumontare Jackson",
+      "vote": "YES",
+      "area": "Area 266"
+  },
+  {
+      "name": "Hon. Letipila Dominic",
+      "vote": "YES",
+      "area": "Area 267"
+  },
+  {
+      "name": "Hon. Naisula Lesuuda",
+      "vote": "NO",
+      "area": "Area 268"
+  },
+  {
+      "name": "Hon. James Nyikal",
+      "vote": "NO",
+      "area": "Area 269"
+  },
+  {
+      "name": "Hon. Fredrick Ikana",
+      "vote": "YES",
+      "area": "Area 270"
+  },
+  {
+      "name": "Hon. Christine Ombaka",
+      "vote": "NO",
+      "area": "Area 271"
+  },
+  {
+      "name": "Hon. Peter Lochakapong",
+      "vote": "YES",
+      "area": "Area 272"
+  },
+  {
+      "name": "Hon. Justice Kemei",
+      "vote": "YES",
+      "area": "Area 273"
+  },
+  {
+      "name": "Hon. John WalkWaluke",
+      "vote": "YES",
+      "area": "Area 274"
+  },
+  {
+      "name": "Hon. Francis Sigei",
+      "vote": "YES",
+      "area": "Area 275"
+  },
+  {
+      "name": "Hon. Shadrack Mwiti",
+      "vote": "ABSENT",
+      "area": "Area 276"
+  },
+  {
+      "name": "Hon. Silvanus Osoro",
+      "vote": "YES",
+      "area": "Area 277"
+  },
+  {
+      "name": "Hon. David Kiplagat",
+      "vote": "YES",
+      "area": "Area 278"
+  },
+  {
+      "name": "Hon. Amos Mwago",
+      "vote": "NO",
+      "area": "Area 279"
+  },
+  {
+      "name": "Hon. Millie Odhiambo",
+      "vote": "NO",
+      "area": "Area 280"
+  },
+  {
+      "name": "Hon. Caroli Omondi",
+      "vote": "YES",
+      "area": "Area 281"
+  },
+  {
+      "name": "Hon. Samuel Gachobe",
+      "vote": "YES",
+      "area": "Area 282"
+  },
+  {
+      "name": "Hon. Junet Mohamed",
+      "vote": "NO",
+      "area": "Area 283"
+  },
+  {
+      "name": "Hon. Francis Masara",
+      "vote": "NO",
+      "area": "Area 284"
+  },
+  {
+      "name": "Hon. Amina Dika",
+      "vote": "YES",
+      "area": "Area 285"
+  },
+  {
+      "name": "Hon. Bare Hussein Abdi",
+      "vote": "YES",
+      "area": "Area 286"
+  },
+  {
+      "name": "Hon. John Bwire",
+      "vote": "YES",
+      "area": "Area 287"
+  },
+  {
+      "name": "Hon. Oku Kaunya",
+      "vote": "NO",
+      "area": "Area 288"
+  },
+  {
+      "name": "Hon. Mary Emaase",
+      "vote": "YES",
+      "area": "Area 289"
+  },
+  {
+      "name": "Hon. Geoffrey Wandeto",
+      "vote": "ABSENT",
+      "area": "Area 290"
+  },
+  {
+      "name": "Hon. George Murugara",
+      "vote": "YES",
+      "area": "Area 291"
+  },
+  {
+      "name": "Hon. Susan Ngugi",
+      "vote": "ABSENT",
+      "area": "Area 292"
+  },
+  {
+      "name": "Hon. Alice Ng’ang’a",
+      "vote": "YES",
+      "area": "Area 293"
+  },
+  {
+      "name": "Hon. William Kamket",
+      "vote": "YES",
+      "area": "Area 294"
+  },
+  {
+      "name": "Hon. Mpuru Aburi",
+      "vote": "YES",
+      "area": "Area 295"
+  },
+  {
+      "name": "Hon. John Mutunga",
+      "vote": "YES",
+      "area": "Area 296"
+  },
+  {
+      "name": "Hon. Julius Melly",
+      "vote": "YES",
+      "area": "Area 297"
+  },
+  {
+      "name": "Hon. John Chikati",
+      "vote": "YES",
+      "area": "Area 298"
+  },
+  {
+      "name": "Hon. Lilian Siyoi",
+      "vote": "YES",
+      "area": "Area 299"
+  },
+  {
+      "name": "Hon. Janet Sitienei",
+      "vote": "YES",
+      "area": "Area 300"
+  },
+  {
+      "name": "Hon. Cecilia Ngitit",
+      "vote": "ABSENT",
+      "area": "Area 301"
+  },
+  {
+      "name": "Hon. Joseph Namuar",
+      "vote": "YES",
+      "area": "Area 302"
+  },
+  {
+      "name": "Hon. Paul Ekuom Nabuin",
+      "vote": "NO",
+      "area": "Area 303"
+  },
+  {
+      "name": "Hon. John Ariko",
+      "vote": "NO",
+      "area": "Area 304"
+  },
+  {
+      "name": "Hon. Daniel Nanok",
+      "vote": "YES",
+      "area": "Area 305"
+  },
+  {
+      "name": "Hon. Gladys Shollei",
+      "vote": "YES",
+      "area": "Area 306"
+  },
+  {
+      "name": "Hon. David Ochieng",
+      "vote": "NO",
+      "area": "Area 307"
+  },
+  {
+      "name": "Hon. James Wandayi",
+      "vote": "NO",
+      "area": "Area 308"
+  },
+  {
+      "name": "Hon. Mark Nyamita",
+      "vote": "NO",
+      "area": "Area 309"
+  },
+  {
+      "name": "Hon. Ernest Kivai Kagesi",
+      "vote": "YES",
+      "area": "Area 310"
+  },
+  {
+      "name": "Hon. Beatrice Adagala",
+      "vote": "YES",
+      "area": "Area 311"
+  },
+  {
+      "name": "Hon. Adow Mohamed",
+      "vote": "YES",
+      "area": "Area 312"
+  },
+  {
+      "name": "Hon. Farah Yusuf Mohamed",
+      "vote": "NO",
+      "area": "Area 313"
+  },
+  {
+      "name": "Hon. Martin Pepela",
+      "vote": "YES",
+      "area": "Area 314"
+  },
+  {
+      "name": "Hon. Abdi Daudi Mohamed",
+      "vote": "ABSENT",
+      "area": "Area 315"
+  },
+  {
+      "name": "Hon. Daniel Wanyama",
+      "vote": "YES",
+      "area": "Area 316"
+  },
+  {
+      "name": "Hon. Stephen Mogaka",
+      "vote": "NO",
+      "area": "Area 317"
+  },
+  {
+      "name": "Hon. Rael Chepkemoi",
+      "vote": "YES",
+      "area": "Area 318"
+  },
+  {
+      "name": "Hon. Timothy Wanyonyi",
+      "vote": "NO",
+      "area": "Area 319"
+  },
+  {
+      "name": "Hon. Mwakuwona Danson",
+      "vote": "NO",
+      "area": "Area 320"
+  },
+  {
+      "name": "Hon. Basil Robert",
+      "vote": "NO",
+      "area": "Area 321"
+  },
+  {
+      "name": "Hon. Abdisirat Khalif",
+      "vote": "YES",
+      "area": "Area 322"
+  },
+  {
+      "name": "Hon. Sabina Chege",
+      "vote": "ABSENT",
+      "area": "Area 323"
+  },
+  {
+      "name": "Hon. Joseph Hamisi",
+      "vote": "YES",
+      "area": "Area 324"
+  },
+  {
+      "name": "Hon. Harun Suleka",
+      "vote": "YES",
+      "area": "Area 325"
+  },
+  {
+      "name": "Hon. Ikiara Dorothy",
+      "vote": "YES",
+      "area": "Area 326"
+  },
+  {
+      "name": "Hon. Iraya Joseph",
+      "vote": "YES",
+      "area": "Area 327"
+  },
+  {
+      "name": "Hon. Kosgei Joseph",
+      "vote": "ABSENT",
+      "area": "Area 328"
+  },
+  {
+      "name": "Hon. Irene Mayaka",
+      "vote": "NO",
+      "area": "Area 329"
+  },
+  {
+      "name": "Hon. Umul kher Harun",
+      "vote": "NO",
+      "area": "Area 330"
+  },
+  {
+      "name": "Hon. Teresia Wanjiru Mwangi",
+      "vote": "ABSENT",
+      "area": "Area 331"
+  },
+  {
+      "name": "Hon. John Mbadi",
+      "vote": "NO",
+      "area": "Area 332"
+  },
+  {
+      "name": "Hon. Talib Abubakar Ahmed",
+      "vote": "YES",
+      "area": "Area 333"
+  }
+]

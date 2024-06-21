@@ -1,0 +1,1394 @@
+[
+    {
+        "vote": "YES",
+        "name": "Hon. Benjamin Kipkirui",
+        "party": "UDA",
+        "constituency": "Ainamoi"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Marianne Kitany",
+        "party": "UDA",
+        "constituency": "Aldai"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Samuel Atandi",
+        "party": "ODM",
+        "constituency": "Alego Usonga"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. John Walter Owino",
+        "party": "ODM",
+        "constituency": "Awendo"
+    },
+    {
+        "vote": "ABSENT",
+        "name": "Hon. Irene Njoki",
+        "party": "Jubilee",
+        "constituency": "Bahati"
+    },
+    {
+        "vote": "ABSENT",
+        "name": "Hon. Abdi Shurie",
+        "party": "Jubilee",
+        "constituency": "Balambala"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Joshua Kandie",
+        "party": "UDA",
+        "constituency": "Baringo Central"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Kipkoros Makilap",
+        "party": "UDA",
+        "constituency": "Baringo North"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Charles Kamuren",
+        "party": "UDA",
+        "constituency": "Baringo South"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Koech Nelson",
+        "party": "UDA",
+        "constituency": "Belgut"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Richard Cheruiyot",
+        "party": "UDA",
+        "constituency": "Bomet Central"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Yegon Richard",
+        "party": "UDA",
+        "constituency": "Bomet East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Gideon Ochanda",
+        "party": "ODM",
+        "constituency": "Bondo"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Osero Patrick Kibagendi",
+        "party": "ODM",
+        "constituency": "Borabu"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Raphael Wanjala",
+        "party": "ODM",
+        "constituency": "Budalangi"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Jack Wamboka",
+        "party": "DAPK",
+        "constituency": "Bumula"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Komingoi Kibet",
+        "party": "UDA",
+        "constituency": "Bureti"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Tindi Mwale",
+        "party": "ODM",
+        "constituency": "Butere"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Rindikiri Mugambi",
+        "party": "UDA",
+        "constituency": "Buuri"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Kirima Nguchine",
+        "party": "UDA",
+        "constituency": "Central Imenti"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Omar Shimbwa Mwinyi",
+        "party": "ODM",
+        "constituency": "Changamwe"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Victor Koech",
+        "party": "CCM",
+        "constituency": "Chepalungu"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Patrick Simiyu",
+        "party": "DAP-K",
+        "constituency": "Cherangany"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Farah Maalim",
+        "party": "Wiper",
+        "constituency": "Dadaab"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Beatrice Elachi",
+        "party": "ODM",
+        "constituency": "Dagoretti North"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. John Kiarie",
+        "party": "UDA",
+        "constituency": "Dagoretti South"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Musa Sirma",
+        "party": "UDA",
+        "constituency": "Eldama Ravine"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Adan Keynan",
+        "party": "Jubilee",
+        "constituency": "Eldas"
+    },
+    {
+        "vote": "ABSENT",
+        "name": "Hon. Mejjadonk Benjamin",
+        "party": "UDA",
+        "constituency": "Embakasi Central"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Babu Owino",
+        "party": "ODM",
+        "constituency": "Embakasi East"
+    },
+    {
+        "vote": "ABSENT",
+        "name": "Hon. James Gakuya",
+        "party": "UDA",
+        "constituency": "Embakasi North"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Julius Mawathe",
+        "party": "Wiper",
+        "constituency": "Embakasi South"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Mark Mwenje",
+        "party": "Jubilee",
+        "constituency": "Embakasi West"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Omboko Milemba",
+        "party": "ANC",
+        "constituency": "Emuhaya"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Robert Pukose",
+        "party": "UDA",
+        "constituency": "Endebes"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Yakub Farah",
+        "party": "UDA",
+        "constituency": "Fafi"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Oundo Ojiambo",
+        "party": "ODM",
+        "constituency": "Funyula"
+    },
+    {
+        "vote": "ABSENT",
+        "name": "Hon. Hiribae Said",
+        "party": "ODM",
+        "constituency": "Galole"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Tungule Charo Kazungu",
+        "party": "PAA",
+        "constituency": "Ganze"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Guyo Ali Wario",
+        "party": "ODM",
+        "constituency": "Garsen"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Edward Wakili",
+        "party": "UDA",
+        "constituency": "Gatanga"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Gabriel Kagombe",
+        "party": "UDA",
+        "constituency": "Gatundu South"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Elisha Odhiambo",
+        "party": "ODM",
+        "constituency": "Gem"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Robert Gichimu",
+        "party": "UDA",
+        "constituency": "Gichugu"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Martha Wangari",
+        "party": "UDA",
+        "constituency": "Gilgil"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Gathoni Wamuchomba",
+        "party": "UDA",
+        "constituency": "Githunguri"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Gimose Gumini",
+        "party": "ANC",
+        "constituency": "Hamisi"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. George Kaluma",
+        "party": "ODM",
+        "constituency": "Homa Bay Town"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Julius Taitumu",
+        "party": "UDA",
+        "constituency": "Igembe North"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. John Paul Mwirigi",
+        "party": "UDA",
+        "constituency": "Igembe South"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Ali Abdi Ali",
+        "party": "NAP-K",
+        "constituency": "Ijara"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Bernard Shinali",
+        "party": "ODM",
+        "constituency": "Ikolomani"
+    },
+    {
+        "vote": "ABSENT",
+        "name": "Hon. Lomwaa Joseph Samal",
+        "party": "Jubilee",
+        "constituency": "Isiolo North"
+    },
+    {
+        "vote": "UNWELL",
+        "name": "Hon. Tubi Mohamed",
+        "party": "Jubilee",
+        "constituency": "Isiolo South"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Bady Bady Twalib",
+        "party": "ODM",
+        "constituency": "Jomvu"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. George Koimburi",
+        "party": "UDA",
+        "constituency": "Juja"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Wamacukuru James",
+        "party": "UDA",
+        "constituency": "Kabete"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Eve Obara",
+        "party": "ODM",
+        "constituency": "Kabondo Kasipul"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Titus Lotee",
+        "party": "KUP",
+        "constituency": "Kacheliba"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Memusi Kanchory",
+        "party": "ODM",
+        "constituency": "Kajiado Central"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Kakuta Maimai",
+        "party": "ODM",
+        "constituency": "Kajiado East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Onesmus Ngogoyo",
+        "party": "UDA",
+        "constituency": "Kajiado North"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Sakimba Parashina",
+        "party": "ODM",
+        "constituency": "Kajiado South"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Paul Katana",
+        "party": "ODM",
+        "constituency": "Kaloleni"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Chege Njuguna",
+        "party": "UDA",
+        "constituency": "Kandara"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. John Makali",
+        "party": "FORD- KENYA",
+        "constituency": "Kanduyi"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Peter Irungu",
+        "party": "UDA",
+        "constituency": "Kangema"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Fabian Kyule",
+        "party": "GDDP",
+        "constituency": "Kangundo"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Oscar Sudi",
+        "party": "UDA",
+        "constituency": "Kapseret"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Adipo Okuome",
+        "party": "ODM",
+        "constituency": "Karachuonyo"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Ronald Karauri",
+        "party": "Independent",
+        "constituency": "Kasarani"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Charles Were",
+        "party": "ODM",
+        "constituency": "Kasipul"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Robert Mbui",
+        "party": "Wiper",
+        "constituency": "Kathiani"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Adams Kipsanai",
+        "party": "UDA",
+        "constituency": "Keiyo North"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Gideon Kimaiyo",
+        "party": "UDA",
+        "constituency": "Keiyo South"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Christopher Aseka",
+        "party": "ODM",
+        "constituency": "Khwisero"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Waithaka John",
+        "party": "UDA",
+        "constituency": "Kiambu"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Peter Orero",
+        "party": "ODM",
+        "constituency": "Kibra"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Mwengi Mutuse",
+        "party": "Maendeleo Chap Chap",
+        "constituency": "Kibwezi West"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Njoroge Wainaina",
+        "party": "UDA",
+        "constituency": "Kieni"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Joseph Munyoro",
+        "party": "UDA",
+        "constituency": "Kigumo"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Ndindi Nyoro",
+        "party": "UDA",
+        "constituency": "Kiharu"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Kimani Ichung\u2019wah",
+        "party": "UDA",
+        "constituency": "Kikuyu"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Julius Sunkuli",
+        "party": "KANU",
+        "constituency": "Kilgoris"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Owen Baya",
+        "party": "UDA",
+        "constituency": "Kilifi North"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Ken Chonga",
+        "party": "ODM",
+        "constituency": "Kilifi South"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Nzambia Kithua",
+        "party": "Wiper",
+        "constituency": "Kilome"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Didmus Barasa",
+        "party": "UDA",
+        "constituency": "Kimilili"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Kakai Bisau",
+        "party": "DAP-K",
+        "constituency": "Kiminini"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Gonzi Rai",
+        "party": "PAA",
+        "constituency": "Kinango"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Kwenya Thuku",
+        "party": "Jubilee",
+        "constituency": "Kinangop"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Wanjiku Muhia",
+        "party": "UDA",
+        "constituency": "Kipipiri"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Cherorot Joseph",
+        "party": "UDA",
+        "constituency": "Kipkelion East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Joseph Gitari",
+        "party": "UDA",
+        "constituency": "Kirinyaga Central"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Bedzimba Rashid",
+        "party": "ODM",
+        "constituency": "Kisauni"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Oron Joshua",
+        "party": "ODM",
+        "constituency": "Kisumu Central"
+    },
+    {
+        "vote": "ABSENT",
+        "name": "Hon. Shakeel Shabbir",
+        "party": "Independent",
+        "constituency": "Kisumu East"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Rozaah Buyu",
+        "party": "ODM",
+        "constituency": "Kisumu West"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Makali Mulu",
+        "party": "Wiper",
+        "constituency": "Kitui Central"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Nimrod Mbai",
+        "party": "UDA",
+        "constituency": "Kitui East"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Mboni Mwalika",
+        "party": "Wiper",
+        "constituency": "Kitui Rural"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Rachael Nyamai",
+        "party": "Jubilee",
+        "constituency": "Kitui South"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Edith Nyenze",
+        "party": "Wiper",
+        "constituency": "Kitui West"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Japheth Nyakundi",
+        "party": "UDA",
+        "constituency": "Kitutu  Chache North"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Clive Gisairo",
+        "party": "ODM",
+        "constituency": "Kitutu Masaba"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Yegon Richard",
+        "party": "UDA",
+        "constituency": "Bomet East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Alfred Mutai",
+        "party": "UDA",
+        "constituency": "Kuresoi North"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Joseph Tonui",
+        "party": "UDA",
+        "constituency": "Kuresoi South"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Kitayama Maisori",
+        "party": "UDA",
+        "constituency": "Kuria East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Mathias Robi",
+        "party": "UDA",
+        "constituency": "Kuria West"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Ferdinand Wanyonyi",
+        "party": "FORD KENYA",
+        "constituency": "Kwanza"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Mohamed Hussein Abdekadir",
+        "party": "ODM",
+        "constituency": "Lagdera"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Mwangi Kiunjuri",
+        "party": "TSP",
+        "constituency": "Laikipia East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Sarah Korere",
+        "party": "Jubilee",
+        "constituency": "Laikipia North"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Joseph Lekuton",
+        "party": "UDM",
+        "constituency": "Laisamis"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Ruweida Obo",
+        "party": "Jubilee",
+        "constituency": "Lamu East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Stanley Muthama",
+        "party": "Jubilee",
+        "constituency": "Lamu West"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Phelix Odiwuor (Jalang\u2019o)",
+        "party": "ODM",
+        "constituency": "Langata"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Kahangara Joseph",
+        "party": "UDA",
+        "constituency": "Lari"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Mishi Mboko",
+        "party": "ODM",
+        "constituency": "Likoni"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Innocent Mugabe",
+        "party": "ODM",
+        "constituency": "Likuyani"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. John Chege Kiragu",
+        "party": "UDA",
+        "constituency": "Limuru"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Protus Akuja",
+        "party": "UDA",
+        "constituency": "Loima"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Dick Maungu",
+        "party": "DAP-K",
+        "constituency": "Luanda"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Nabii Nabwera",
+        "party": "ODM",
+        "constituency": "Lugari"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Chiforomodo Mangale",
+        "party": "UDM",
+        "constituency": "Lungalunga"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Titus Khamala",
+        "party": "ODM",
+        "constituency": "Lurambi"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Caleb Mule",
+        "party": "Maendeleo Chap Chap",
+        "constituency": "Machakos Town"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. George Aladwa",
+        "party": "ODM",
+        "constituency": "Makadara"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Suzanne Kiamba",
+        "party": "Wiper",
+        "constituency": "Makueni"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Malulu Injendi",
+        "party": "ANC",
+        "constituency": "Malava"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Amina Mnyazi",
+        "party": "ODM",
+        "constituency": "Malindi"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Sheikh Bashir Abdullahi",
+        "party": "UDM",
+        "constituency": "Mandera North"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Husseinweytan Mohamed",
+        "party": "ODM",
+        "constituency": "Mandera East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Abdul Haro Ibrahim",
+        "party": "UDM",
+        "constituency": "Mandera South"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Yusuf Adan Haji",
+        "party": "UDM",
+        "constituency": "Mandera West"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. David Bowen",
+        "party": "UDA",
+        "constituency": "Marakwet East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Kipchumba Toroitich",
+        "party": "Independent",
+        "constituency": "Marakwet West"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Geoffrey Odanga",
+        "party": "ODM",
+        "constituency": "Matayos"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Anthony Oluoch",
+        "party": "ODM",
+        "constituency": "Mathare"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Eric Mwangi Kahugu",
+        "party": "UDA",
+        "constituency": "Mathira"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Kassim Sawa",
+        "party": "ANC",
+        "constituency": "Matuga"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Peter OScar Nabulindo",
+        "party": "ODM",
+        "constituency": "Matungu"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Stephen Mule",
+        "party": "Wiper",
+        "constituency": "Matungulu"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Bernard Muriuki",
+        "party": "Independent",
+        "constituency": "Mbeere South"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Erastus Kivasu",
+        "party": " Wiper",
+        "constituency": "Mbooni"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Kiborek Reuben",
+        "party": "UDA",
+        "constituency": "Mogotio"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Kuria Kimani",
+        "party": "UDA",
+        "constituency": "Molo"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Abraham Kirwa",
+        "party": "UDA",
+        "constituency": "Mosop"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Feisal Bader",
+        "party": "UDA",
+        "constituency": "Msambweni"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Fred Kapondi",
+        "party": "UDA",
+        "constituency": "Mt Elgon"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Kaguchia John",
+        "party": "UDA",
+        "constituency": "Mukurweini"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Salasya Peter",
+        "party": "DAP-K",
+        "constituency": "Mumias East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Johnson Naicca",
+        "party": "ODM",
+        "constituency": "Mumias West"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Machele Mohamed",
+        "party": "ODM",
+        "constituency": "Mvita"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Musyoka Vincent",
+        "party": "UDA",
+        "constituency": "Mwala"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Mary Maingi",
+        "party": "UDA",
+        "constituency": "Mwea"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Gideon Mulyungi",
+        "party": "Wiper",
+        "constituency": "Mwingi Central"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Paul Nzengu",
+        "party": "Wiper",
+        "constituency": "Mwingi North"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Charles Nguna",
+        "party": "Wiper",
+        "constituency": "Mwingi West"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. David Gikaria",
+        "party": "UDA",
+        "constituency": "Nakuru Town East"
+    },
+    {
+        "vote": "ABSENT",
+        "name": "Hon. Bernard Kitur",
+        "party": "UDA",
+        "constituency": "Nandi Hills"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Aramat Lemanken",
+        "party": "UDA",
+        "constituency": "Narok East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Gabriel Tongoyo",
+        "party": "UDA",
+        "constituency": "Narok West"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Emmanuel Wangwe",
+        "party": "ODM",
+        "constituency": "Navakholo"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. George Gachagua",
+        "party": "UDA",
+        "constituency": "Ndaragwa"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Martin Peters Owino",
+        "party": "ODM",
+        "constituency": "Ndhiwa"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Charity Kathambi",
+        "party": "UDA",
+        "constituency": "Njoro"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Guyo Adhe",
+        "party": "KANU",
+        "constituency": "North Horr"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Rahim Dawood",
+        "party": "Independent",
+        "constituency": "North Imenti"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Joash Nyamoko",
+        "party": "UDA",
+        "constituency": "North Mugirango"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Aduma Owuor",
+        "party": "ODM",
+        "constituency": "Nyakach"
+    },
+    {
+        "vote": "ABSENT",
+        "name": "Hon. Mohamed Ali",
+        "party": "UDA",
+        "constituency": "Nyali"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Zaheer Jhanda",
+        "party": "UDA",
+        "constituency": "Nyaribari Chache"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Daniel Manduku",
+        "party": "ODM",
+        "constituency": "Nyaribari Masaba"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Tom Mboya Odege",
+        "party": "ODM",
+        "constituency": "Nyatike"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Duncan Mathenge",
+        "party": "UDA",
+        "constituency": "Nyeri Town"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Michael Muchira",
+        "party": "UDA",
+        "constituency": "Oljorok"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Kiaraho David",
+        "party": "Jubilee",
+        "constituency": "Olkalou"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. David Pkosing",
+        "party": "KUP",
+        "constituency": "Pokot South"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Lilian Gogo",
+        "party": "ODM",
+        "constituency": "Rangwe"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Paul Abuor",
+        "party": "ODM",
+        "constituency": "Rongo"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Mwafrika Kamande",
+        "party": "UDA",
+        "constituency": "Roysambu"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Simon Kingara",
+        "party": "UDA",
+        "constituency": "Ruiru"
+    },
+    {
+        "vote": "ABSENT",
+        "name": "Hon. Sloya Clement",
+        "party": "UDA",
+        "constituency": "Sabatia"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Caleb Amisi",
+        "party": "ODM",
+        "constituency": "Saboti"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Lekumontare Jackson",
+        "party": "KANU",
+        "constituency": "Samburu East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Letipila Dominic",
+        "party": "UDA",
+        "constituency": "Samburu North"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Naisula Lesuuda",
+        "party": "KANU",
+        "constituency": "Samburu West"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. James Nyikal",
+        "party": "ODM",
+        "constituency": "Seme"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Fredrick Ikana",
+        "party": "ANC",
+        "constituency": "Shinyalu"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Peter Lochakapong",
+        "party": "UDA",
+        "constituency": "Sigor"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Justice Kemei",
+        "party": "UDA",
+        "constituency": "Sigowet/Soin"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Francis Sigei",
+        "party": "UDA",
+        "constituency": "Sotik"
+    },
+    {
+        "vote": "ABSENT",
+        "name": "Hon. Shadrack Mwiti",
+        "party": "Jubilee",
+        "constituency": "South Imenti"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Silvanus Osoro",
+        "party": "UDA",
+        "constituency": "South Mugirango"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. David Kiplagat",
+        "party": "UDA",
+        "constituency": "Soy"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Amos Mwago",
+        "party": "Jubilee",
+        "constituency": "Starehe"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Millie Odhiambo",
+        "party": "ODM",
+        "constituency": "Suba North"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Caroli Omondi",
+        "party": "ODM",
+        "constituency": "Suba South"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Samuel Gachobe",
+        "party": "UDA",
+        "constituency": "Subukia"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Junet Mohamed",
+        "party": "ODM",
+        "constituency": "Suna East"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Francis Masara",
+        "party": "ODM",
+        "constituency": "Suna West"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Bare Hussein Abdi",
+        "party": "UDA",
+        "constituency": "Tarbaj"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. John Bwire",
+        "party": "Wiper",
+        "constituency": "Taveta"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Oku Kaunya",
+        "party": "ODM",
+        "constituency": "Teso North"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Mary Emaase",
+        "party": "UDA",
+        "constituency": "Teso South"
+    },
+    {
+        "vote": "ABSENT",
+        "name": "Hon. Geoffrey Wandeto",
+        "party": "UDA",
+        "constituency": "Tetu"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. George Murugara",
+        "party": "UDA",
+        "constituency": "Tharaka"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Alice Ng\u2019ang\u2019a",
+        "party": "UDA",
+        "constituency": "Thika Town"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. William Kamket",
+        "party": "KANU",
+        "constituency": "Tiaty"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Mpuru Aburi",
+        "party": "NOPEU",
+        "constituency": "Tigania East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. John Mutunga",
+        "party": "UDA",
+        "constituency": "Tigania West"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. John Chikati",
+        "party": "FORD-K",
+        "constituency": "Tongaren"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Janet Sitienei",
+        "party": "UDA",
+        "constituency": "Turbo"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Joseph Namuar",
+        "party": "UDA",
+        "constituency": "Turkana Central"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Paul Ekuom Nabuin",
+        "party": "ODM",
+        "constituency": "Turkana North"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. John Ariko",
+        "party": "ODM",
+        "constituency": "Turkana South"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Daniel Nanok",
+        "party": "UDA",
+        "constituency": "Turkana West"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. David Ochieng",
+        "party": "MDG",
+        "constituency": "Ugenya"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. James Wandayi",
+        "party": "ODM",
+        "constituency": "Ugunja"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Mark Nyamita",
+        "party": "ODM",
+        "constituency": "Uriri"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Ernest Kivai Kagesi",
+        "party": "ANC",
+        "constituency": "Vihiga"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Adow Mohamed",
+        "party": "ODM",
+        "constituency": "Wajir South"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Farah Yusuf Mohamed",
+        "party": "ODM",
+        "constituency": "Wajir West"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Martin Pepela",
+        "party": "FORD-K",
+        "constituency": "Webuye East"
+    },
+    {
+        "vote": "ABSENT",
+        "name": "Hon. Abdi Daudi Mohamed",
+        "party": "Jubilee",
+        "constituency": "Wajir East"
+    },
+    {
+        "vote": "YES",
+        "name": "Hon. Daniel Wanyama",
+        "party": "UDA",
+        "constituency": "Webuye West"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Stephen Mogaka",
+        "party": "Jubilee",
+        "constituency": "West Mugirango"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Timothy Wanyonyi",
+        "party": "ODM",
+        "constituency": "Westlands"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Mwakuwona Danson",
+        "party": "Wiper",
+        "constituency": "Wundanyi"
+    },
+    {
+        "vote": "NO",
+        "name": "Hon. Basil Robert",
+        "party": "Wiper",
+        "constituency": "Yatta"
+    }
+]

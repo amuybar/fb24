@@ -1,0 +1,1437 @@
+[
+    {
+        "constituency": "Changamwe",
+        "name": "Shimbwa Omar Mwinyi",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Jomvu",
+        "name": "Bady  Bady Twalib",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kisauni",
+        "name": "Bedzimba  Rashid Juma",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Nyali",
+        "name": "Mohamed  Mohamed Ali",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Likoni",
+        "name": "Mboko Mishi Juma Khamisi",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Mvita",
+        "name": "Machele Mohamed Soud",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Msambweni",
+        "name": "Bader Salim Feisal",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Lungalunga",
+        "name": "Mangale Munga Chiforomodo",
+        "party": "UDM"
+    },
+    {
+        "constituency": "Matuga",
+        "name": "Kassim Sawa Tandaza",
+        "party": "ANC"
+    },
+    {
+        "constituency": "Kinango",
+        "name": "Samuel Gonzi Rai",
+        "party": "PAA"
+    },
+    {
+        "constituency": "Kilifi North",
+        "name": "Owen Yaa Baya",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kilifi South",
+        "name": "Richard Ken Chonga",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kaloleni",
+        "name": "Paul Kahindi Katana",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Rabai",
+        "name": "Anthony Kenga Mupe",
+        "party": "PAA"
+    },
+    {
+        "constituency": "Ganze",
+        "name": "Charo Kenneth Kazungu Tungule",
+        "party": "PAA"
+    },
+    {
+        "constituency": "Malindi",
+        "name": "Amina Laura Mnyazi",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Magarini",
+        "name": "Harrison Garama Kombe",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Garsen",
+        "name": "Ali Wario Guyo",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Galole",
+        "name": "Said Buya Hiribae",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Bura",
+        "name": "Yakub Dubow Kuno",
+        "party": "UPIA"
+    },
+    {
+        "constituency": "Lamu East",
+        "name": "Ruweida Mohamed Obo",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Lamu West",
+        "name": "Muthama Stanley Muiruri",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Taveta",
+        "name": "John Okano Bwire",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Wundanyi",
+        "name": "Danson Mwashako Mwakuwona",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Mwatate",
+        "name": "Peter Mbogho Shake",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Voi",
+        "name": "Khamis Chome Abdi",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Garissa Township",
+        "name": "Mohammed Dekow",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Balambala",
+        "name": "Abdi Omar Shurie",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Lagdera",
+        "name": "Abdikadir Hussein Mohamed",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Dadaab",
+        "name": "Farah Maalim",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Fafi",
+        "name": "Farah Salah Yakub",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Ijara",
+        "name": "Abdi Ali Abdi",
+        "party": "NAP-K"
+    },
+    {
+        "constituency": "Wajir North",
+        "name": "Ibrahim Abdi Saney",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Wajir East",
+        "name": "Aden Daudi Mohamed",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Tarbaj",
+        "name": "Hussein Abdi Barre",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Wajir West",
+        "name": "Yussuf Mohamed Farah",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Eldas",
+        "name": "Adan Keynan Wehliye",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Wajir South",
+        "name": "Mohamed Aden Adow",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Mandera West",
+        "name": "Adan Haji Yussuf",
+        "party": "UDM"
+    },
+    {
+        "constituency": "Banissa",
+        "name": "\u2013",
+        "party": "\u2013"
+    },
+    {
+        "constituency": "Mandera North",
+        "name": "Bashir Sheikh Abdullahi",
+        "party": "UDM"
+    },
+    {
+        "constituency": "Mandera South",
+        "name": "Abdul Ebrahim Haro",
+        "party": "UDM"
+    },
+    {
+        "constituency": "Mandera East",
+        "name": "Husseinweytan Mohamed Abdirahman",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Lafey",
+        "name": "Mohamed Abdi Abdirahman",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Moyale",
+        "name": "Guyo Waqo Jaldesa",
+        "party": "UPIA"
+    },
+    {
+        "constituency": "North Horr",
+        "name": "Adhe Wario Guyo",
+        "party": "KANU"
+    },
+    {
+        "constituency": "Saku",
+        "name": "Dido Ali Raso",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Laisamis",
+        "name": "Joseph Lekuton",
+        "party": "UDM"
+    },
+    {
+        "constituency": "Isiolo North",
+        "name": "Joseph Samal Lomwa",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Isiolo South",
+        "name": "Bidu Mohamed Tubi",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Igembe South",
+        "name": "John Paul Mwirigi",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Igembe Central",
+        "name": "Kiili Daniel Karitho",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Igembe North",
+        "name": "Julius Taitumu M\u2019Anaiba",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Tigania West",
+        "name": "John Kanyuithia Mutunga",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Tigania East",
+        "name": "Lawrence Mpuru Aburi",
+        "party": "NOPEU"
+    },
+    {
+        "constituency": "North Imenti",
+        "name": "Rahim Dawood Abdul",
+        "party": "Independent"
+    },
+    {
+        "constituency": "Buuri",
+        "name": "Rindikiri Mugambi Murwithania",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Central Imenti",
+        "name": "Moses Nguchine Kirima",
+        "party": "UDA"
+    },
+    {
+        "constituency": "South Imenti",
+        "name": "Dr Shadrack Mwiti Ithinji",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Maara",
+        "name": "Japhet Miriti Kareke",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Tharaka",
+        "name": "George Gitonga Murugara",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Manyatta",
+        "name": "John Gitonga Mwaniki",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Runyenjes",
+        "name": "Eric Muchangi Njiru",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Mbeere South",
+        "name": "Bernard Muriuki Nebart",
+        "party": "Independent"
+    },
+    {
+        "constituency": "Mwingi North",
+        "name": "Paul Musyimi Nzengu",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Mwingi West",
+        "name": "Charles Ngusya Nguna",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Mwingi Central",
+        "name": "Gideon Mutemi Mulyungi",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Kitui West",
+        "name": "Edith Vethi Nyenze",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Kitui Rural",
+        "name": "David Mwalika Mboni",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Kitui Central",
+        "name": "Makali Benson Mulu",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Kitui East",
+        "name": "Nimrod Mbithuka Mbai",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kitui South",
+        "name": "Rachael Kaki Nyamai",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Masinga",
+        "name": "Joshua Mbithi Mutua",
+        "party": "Independent"
+    },
+    {
+        "constituency": "Yatta",
+        "name": "Robert Ngui Basil",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Kangundo",
+        "name": "Fabian Kyule Muli",
+        "party": "GDDP"
+    },
+    {
+        "constituency": "Matungulu",
+        "name": "Stephen Mutinda Mule",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Kathiani",
+        "name": "Robert Mbui",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Mavoko",
+        "name": "Patrick Makau King\u2019ola",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Machakos Town",
+        "name": "Caleb Mutiso Mule",
+        "party": "Maendeleo Chap Chap"
+    },
+    {
+        "constituency": "Mwala",
+        "name": "Vincent Musyoka Musau",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Mbooni",
+        "name": "Erastus Kivasu Nzioka",
+        "party": " Wiper"
+    },
+    {
+        "constituency": "Kilome",
+        "name": "Thuddeus Kithua Nzambia",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Kaiti",
+        "name": "Joshua Kivinda Kimilu",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Makueni",
+        "name": "Suzanne Ndunge Kiamba",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Kibwezi West",
+        "name": "Eckomas Mwengi Mutuse",
+        "party": "Maendeleo Chap Chap"
+    },
+    {
+        "constituency": "Kibwei East",
+        "name": "Jessica Nduku Kiko",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Kinangop",
+        "name": "Thuku Zachary Kwenya",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Kipipiri",
+        "name": "Muhia Wanjiku",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Olkalou",
+        "name": "Kiaraho David Njuguna",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Oljorok",
+        "name": "Michael Mwangi Muchira",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Ndaragwa",
+        "name": "George N Gachagua",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Tetu",
+        "name": "Geoffrey Wandeto Mwangi",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kieni",
+        "name": "Antony Njoroge Wainaina",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Mathira",
+        "name": "Eric Mwangi Kahugu",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Othaya",
+        "name": "Micheal Wambugu Wainaina",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Mukurweini",
+        "name": "Kaguchia John Philip",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Nyeri Town",
+        "name": "Duncan Maina Mathenge",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Mwea",
+        "name": "Mary Maingi",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Gichugu",
+        "name": "Robert Gichimu Githinji",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Ndia",
+        "name": "George Macharia Kariuki",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kirinyaga Central",
+        "name": "Joseph Gachoki Gitari",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kangema",
+        "name": "Peter Irungu Kihungi",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Mathioya",
+        "name": "Edwin Mugo Gichuki",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kiharu",
+        "name": "Samson Ndindi Nyoro",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kigumo",
+        "name": "Joseph Kamau Munyoro",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Maragwa",
+        "name": "Mary Wamaua Waithira",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kandara",
+        "name": "Chege Njuguna",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Gatanga",
+        "name": "Wakili Edward Muriu",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Gatundu South",
+        "name": "Gabriel Gathuka Kagombe",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Gatundu North",
+        "name": "Elijah Njore Njoroge",
+        "party": "Independent"
+    },
+    {
+        "constituency": "Juja",
+        "name": "George Koimburi Ndung\u2019u",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Thika Town",
+        "name": "Alice Wambui Ng\u2019ang\u2019a",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Ruiru",
+        "name": "Simon Ng\u2019ang\u2019a Kingara",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Githunguri",
+        "name": "Gathoni Wamuchomba",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kiambu",
+        "name": "John Machua Waithaka",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kiambaa",
+        "name": "John Njuguna Wanjiku",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kabete",
+        "name": "James Githua Kamau Wamacukuru",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kikuyu",
+        "name": "Anthony Kimani Ichung\u2019wah",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Limuru",
+        "name": "John Kiragu Chege",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Lari",
+        "name": "Joseph Mburu Kahangara",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Turkana North",
+        "name": "Paul Ekwom Nabuin",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Turkana West",
+        "name": "Daniel Epuyo Nanok",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Turkana Central",
+        "name": "Joseph Namuar Emathe",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Loima",
+        "name": "Protus Ewesit Akuja",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Turkana South",
+        "name": "John Ariko Namoit",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Turkana East",
+        "name": "Nicholas Ngikor Nixon",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Kapenguria",
+        "name": "Samwel Moroto Chumel",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Sigor",
+        "name": "Peter Lochakapong",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kacheliba",
+        "name": " Titus Lotee",
+        "party": "KUP"
+    },
+    {
+        "constituency": "Pokot South",
+        "name": "David Pkosing",
+        "party": "KUP"
+    },
+    {
+        "constituency": "Samburu West",
+        "name": "Josephine Naisula Lesuuda",
+        "party": "KANU"
+    },
+    {
+        "constituency": "Samburu North",
+        "name": "Dominic Eli Letipila",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Samburu East",
+        "name": "Jackson Lekumontare Lentoijoni",
+        "party": "KANU"
+    },
+    {
+        "constituency": "Kwanza",
+        "name": "Ferdinand Kevin Wanyonyi",
+        "party": "FORD KENYA"
+    },
+    {
+        "constituency": "Endebes",
+        "name": "Robert Pukose",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Saboti",
+        "name": "Caleb Amisi Luyai",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kiminini",
+        "name": "Maurice Kakai Bisau",
+        "party": "DAP-K"
+    },
+    {
+        "constituency": "Cherangany",
+        "name": "Patrick Simiyu Barasa",
+        "party": "DAP-K"
+    },
+    {
+        "constituency": "Soy",
+        "name": "David Kiplagat",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Turbo",
+        "name": "Janet Jepkemboi Sitienei",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Moiben",
+        "name": "Phylis Jepkemoi Bartoo",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Ainabkoi",
+        "name": "Kiprono Samwel Chepkonga",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kapseret",
+        "name": "Oscar Kipchumba Sudi",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kesses",
+        "name": "Julius Kipletting Rutto",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Marakwet East",
+        "name": "David Kongogo Bowen",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Marakwet West",
+        "name": "Timothy Kipchumba Toroitich",
+        "party": "Independent"
+    },
+    {
+        "constituency": "Keiyo North",
+        "name": "Adams Kipsanai Korir",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Keiyo South",
+        "name": "Gideon Kimaiyo Kipkoech",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Tinderet",
+        "name": "Julius Meli Kipbiwot",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Aldai",
+        "name": "Marianne Jebet Kitany",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Nandi Hills",
+        "name": "Bernard Kibor Kitur",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Chesumei",
+        "name": "Paul Kibichy Biego",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Emgwen",
+        "name": "Josses Kiptoo Kosgey",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Mosop",
+        "name": "Abraham Kipsang Kirwa",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Tiaty",
+        "name": "William Kamket Kassait",
+        "party": "KANU"
+    },
+    {
+        "constituency": "Baringo North",
+        "name": "Joseph Makilap Kipkoros",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Baringo Central",
+        "name": "Joshua Chepyegon Kandie",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Baringo South",
+        "name": "Charles Kamuren",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Mogotio",
+        "name": "Reuben Kiborek Kipngor",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Eldama Ravine",
+        "name": "Musa Cherutich Sirma",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Laikipia East",
+        "name": "Festus Mwangi Kiunjuri",
+        "party": "TSP"
+    },
+    {
+        "constituency": "Laikipia North",
+        "name": "Sarah Paulata Korere",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Molo",
+        "name": "Francis Kuria Kimani",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Njoro",
+        "name": "Charity Kathambi Chepkwony",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Naivasha",
+        "name": "Jayne Wanjiru Njeri",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Gilgil",
+        "name": "Martha Wangari Wanjira",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kuresoi South",
+        "name": "Joseph Kipkosgei Tonui",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kuresoi North",
+        "name": "Mutai Alfred Kiprono",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Subukia",
+        "name": "Samuel Kinuthia Gachobe",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Rongai",
+        "name": "Paul Chebor",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Bahati",
+        "name": "Irene Njoki Mrembo",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Nakuru Town West",
+        "name": "Samwel Arama",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Nakuru Town East",
+        "name": "David Gikaria",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kilgoris",
+        "name": "Julius Lekakeny ole Sunkuli",
+        "party": "KANU"
+    },
+    {
+        "constituency": "Emurua Dikirr",
+        "name": "Johana Ng\u2019eno Kipyegon",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Narok North",
+        "name": "Agnes Mantaine Pareyio",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Narok East",
+        "name": "Lemanken Aramat",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Narok South",
+        "name": "Ole Ntutu Kitilai",
+        "party": "Independent"
+    },
+    {
+        "constituency": "Narok West",
+        "name": "Gabriel Koshal Tongoyo",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kajiado North",
+        "name": "Onesmus Ngogoyo Nguro",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kajiado Central",
+        "name": "Elijah Memusi Kanchory",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kajiado East",
+        "name": "Kakuta Maimai Hamisi",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kajiado West",
+        "name": "Sunkuyia George Risa",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kajiado South",
+        "name": "Parashina Samuel Sakimba",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kipkelion East",
+        "name": "Joseph Kimutai Cherorot",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kipkelion West",
+        "name": "Hilary Kiplangat Kosgei",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Ainamoi",
+        "name": "Benjamin Kipkirui Langat",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Bureti",
+        "name": "Kibet Kirui Komingoi",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Belgut",
+        "name": "Nelson Koech",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Sigowet/Soin",
+        "name": "Justice Kipsang Kemei",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Sotik",
+        "name": "Francis Kipyegon Arap Sigei",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Chepalungu",
+        "name": "Victor Kipngetich Koech",
+        "party": "CCM"
+    },
+    {
+        "constituency": "Bomet East",
+        "name": "Richard Kipkemoi Yegon",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Bomet Central",
+        "name": "Richard Cheruiyot Kilel",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Konoin",
+        "name": "Brighton Leonard Yegon",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Lugari",
+        "name": "Nabwera Daraja Nabii",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Likuyani",
+        "name": "Innocent Maino Mugabe",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Malava",
+        "name": "Moses Malulu Injendi",
+        "party": "ANC"
+    },
+    {
+        "constituency": "Lurambi",
+        "name": "Titus Khamala Mukhwana",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Navakholo",
+        "name": "Emmanuel Wangwe",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Mumias West",
+        "name": "Johnson Manya Naicca",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Mumias East",
+        "name": "Peter Kalerwa Salasya",
+        "party": "DAP-K"
+    },
+    {
+        "constituency": "Matungu",
+        "name": "Peter Oscar Nabulindo",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Butere",
+        "name": "Nicholas S. Tindi Mwale",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Khwisero",
+        "name": "Christopher Aseka Wangaya",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Shinyalu",
+        "name": "Fredrick Lusuli Ikana",
+        "party": "ANC"
+    },
+    {
+        "constituency": "Ikolomani",
+        "name": "Bernard Masaka Shinali",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Vihiga",
+        "name": "Kivai Ernest Ogesi Kagesi",
+        "party": "ANC"
+    },
+    {
+        "constituency": "Sabatia",
+        "name": "Sloya Clement Logova",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Hamisi",
+        "name": "Charles Gumini Gimose",
+        "party": "ANC"
+    },
+    {
+        "constituency": "Luanda",
+        "name": "Dick Maungu Oyugi",
+        "party": "DAP-K"
+    },
+    {
+        "constituency": "Emuhaya",
+        "name": "Milemba Jeremiah Omboko",
+        "party": "ANC"
+    },
+    {
+        "constituency": "Mt Elgon",
+        "name": "Fred Kapondi Chesebe",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Sirisia",
+        "name": "John Waluke Koyi",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Kabuchai",
+        "name": "Joseph Simiyu Wekesa Majimbo",
+        "party": "FORD-K"
+    },
+    {
+        "constituency": "Bumula",
+        "name": "Nelson Jack Wamboka",
+        "party": "DAPK"
+    },
+    {
+        "constituency": "Kanduyi",
+        "name": "John Okwisia Makali",
+        "party": "FORD- KENYA"
+    },
+    {
+        "constituency": "Webuye East",
+        "name": "Martin Pepela Wanyonyi",
+        "party": "FORD-K"
+    },
+    {
+        "constituency": "Webuye West",
+        "name": "Daniel Wanyama Sitati",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kimilili",
+        "name": "Didmus Wekesa Barasa Mutua",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Tongaren",
+        "name": "John Chikati Murumba",
+        "party": "FORD-K"
+    },
+    {
+        "constituency": "Teso North",
+        "name": "Edward Kaunya Oku",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Teso South",
+        "name": "Mary Emaase Otucho",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Nambale",
+        "name": "Geoffrey Ekesa Mulanya",
+        "party": "Independent"
+    },
+    {
+        "constituency": "Matayos",
+        "name": "Geoffrey Makokha Odanga",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Butula",
+        "name": "Joseph H Maero",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Funyula",
+        "name": "Wilberforce Ojiambo Oundo",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Budalangi",
+        "name": "Raphael Sauti Bitta Wanjala",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Ugenya",
+        "name": "David Ouma Ochieng",
+        "party": "MDG"
+    },
+    {
+        "constituency": "Ugunja",
+        "name": "James Opiyo Wandayi",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Alego Usonga",
+        "name": "Samuel Onunga Atandi",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Gem",
+        "name": "Elisha Ochieng Odhiambo",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Bondo",
+        "name": "Gideon Ochanda Ogolla",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Rarieda",
+        "name": "Paul Otiende Amollo",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kisumu East",
+        "name": "Shakeel Ahmed Shabbir Ahmed",
+        "party": "Independent"
+    },
+    {
+        "constituency": "Kisumu West",
+        "name": "Rozaah Akinyi Buyu",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kisumu Central",
+        "name": "Joshua Odongo Oron",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Seme",
+        "name": "James Wambura Nyikal",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Nyando",
+        "name": "Okello Jared Odoyo",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Muhoroni",
+        "name": "James Onyango Oyoo",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Nyakach",
+        "name": "Joshua Aduma Owuor",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kasipul",
+        "name": "Charles Ong\u2019ondo Were",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kabondo Kasipul",
+        "name": "Eve Akinyi Obara",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Karachuonyo",
+        "name": "Andrew Adipo  Okuome",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Rangwe",
+        "name": "Lilian Achieng Gogo",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Homa Bay Town",
+        "name": "George Peter Opondo Kaluma",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Ndhiwa",
+        "name": "Martins Peters Owino",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Suba North",
+        "name": "Millie Odhiambo",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Suba South",
+        "name": "Caroli Omondi",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Rongo",
+        "name": "Abuor Paul",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Awendo",
+        "name": "John Walter Owino",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Suna East",
+        "name": "Junet Mohamed",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Suna West",
+        "name": "Peter Francis Masara",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Uriri",
+        "name": "Mark Ogolla Nyamita",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Nyatike",
+        "name": "Tom Mboya Odege",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kuria West",
+        "name": "Mathias Nyamabe Robi",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kuria East",
+        "name": "Maisori Marwa Kitayama Kemero",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Bonchari",
+        "name": "Onchoke Charles Mamwacha",
+        "party": "UPA"
+    },
+    {
+        "constituency": "South Mugirango",
+        "name": "Silvanus Osoro Onyiego",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Bomachoge Borabu",
+        "name": "Nolfason Obadiah Barongo",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Bobasi",
+        "name": "Innocent Obiri Momanyi",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Bomachoge Chache",
+        "name": "Miruka Ondieki Alfah",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Nyaribari Masaba",
+        "name": "Daniel Ogwoka Manduku",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Nyaribari Chache",
+        "name": "Zaheer Jhanda",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kitutu  Chache North",
+        "name": "Nyakundi Japheth Mokaya",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kitutu Chache South",
+        "name": "Antoney Kibagendi",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kitutu Masaba",
+        "name": "Clive Ombane Gisairo",
+        "party": "ODM"
+    },
+    {
+        "constituency": "West Mugirango",
+        "name": "Stephen M. Mogaka",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "North Mugirango",
+        "name": "Joash Nyamache Nyamoko",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Borabu",
+        "name": "Patrick Kibagendi Osero",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Westlands",
+        "name": "Timothy Wanyonyi Wetangula",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Dagoretti North",
+        "name": "Beatrice Kadeveresia Elachi",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Dagoretti South",
+        "name": "John Kiarie Waweru",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Langata",
+        "name": "Phelix Odiwuor Khodhe",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kibra",
+        "name": "Peter Ochieng Orero",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Roysambu",
+        "name": "Augustine Kamande Mwafrika",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Kasarani",
+        "name": "Ronald Kamwiko Karauri",
+        "party": "Independent"
+    },
+    {
+        "constituency": "Ruaraka",
+        "name": "Kajwang Tom Joseph Francis",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Embakasi South",
+        "name": "Julius Musili Mawathe",
+        "party": "Wiper"
+    },
+    {
+        "constituency": "Embakasi North",
+        "name": "James Mwangi Gakuya",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Embakasi Central",
+        "name": "Mejjadonk Benjamin Gathiru",
+        "party": "UDA"
+    },
+    {
+        "constituency": "Embakasi East",
+        "name": "Babu Owino Paul Ongili",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Embakasi West",
+        "name": "Mark Samuel Muriithi Mwenje",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Makadara",
+        "name": "George Aladwa Omwera",
+        "party": "ODM"
+    },
+    {
+        "constituency": "Kamukunji",
+        "name": "Abdi Yusuf Hassan",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Starehe",
+        "name": "Mwago Amos Maina",
+        "party": "Jubilee"
+    },
+    {
+        "constituency": "Mathare",
+        "name": "Anthony Tom Oluoch",
+        "party": "ODM"
+    }
+]
